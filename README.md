@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   - Twitter -> luccahuguet
 - 🌆 In the future:
   - I plan to build more and more with Rust, the modern language with amazing performance, scalability and safety
-  - Delve deeper into AI, building more powerful tools and models.   
+  - Delve deeper into AI, building more powerful tools and models   
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
