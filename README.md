@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   - The great field of AI, and more especifically meta-learning, AutoML, object detection, and hyp optmization
 - 📫 Reach me via:
   - Twitter -> luccahuguet
-- 🌆 In the future:
-  - I plan to build more and more with Rust, the modern language with amazing performance, scalability and safety
+- 🌆 In the future, I plan to:
+  - Build more and more with Rust, the modern language with amazing performance, scalability and safety
   - Delve deeper into AI, building more powerful tools and models   
 <!--
 - 👯 I’m looking to collaborate on ...
