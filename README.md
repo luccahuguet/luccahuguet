@@ -10,9 +10,6 @@ Here are some ideas to get you started:
  - Elfotec, as a machine learning engineer. Creating AI solutions for object detection in python
  - My startup Panaceia, creating a next-gen MLOPs plataform
 
-🔬  On the science front:
- - I am currently studying meta-learning and autoML with a Professor at the University of Brasília. We plan to publish an article about our findings
-
 🌱  I’m currently studying:
  - YOLOv7, the state of the art object detection model, and its applications for custom data
  - AI, and more especifically meta-learning, AutoML, object detection, and hyp optmization
