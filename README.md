@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 -->
 💼  I am currently working at:
- - Elfotec, as a machine learning engineer. Creating AI solutions for object detection in python
- - My startup Panaceia, creating a next-gen MLOPs plataform
+ - Elfotec, as a data scientist. Creating AI solutions for object detection in python
 
 🌱  I’m currently studying:
- - YOLOv7, the state of the art object detection model, and its applications for custom data
- - AI, and more especifically meta-learning, AutoML, object detection, and hyp optmization
+ - the YOLO family of models, encompassing most of the state of the art object detection models, and their applications for custom data
+ - Python
+ - Nushell
 
 📫  Reach me via:
  - Twitter -> luccahuguet
