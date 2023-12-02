@@ -6,21 +6,21 @@
 Here are some ideas to get you started:
 
 -->
-
+  
 💼  I am currently working at:
  - Elfotec, as a data scientist. Creating AI solutions for object detection in python
-
-
+  
+  
 🌱  I’m currently studying:
  - the YOLO family of models, encompassing most of the state of the art object detection models, and their applications for custom data
  - Python
  - Nushell
-
-
+  
+  
 📫  Reach me via:
  - Twitter -> luccahuguet
 
-
+  
 🌆  In the future, I plan to:
  - Build more and more with Rust, the modern language with amazing performance, scalability and safety
  - Delve deeper into AI, building more powerful tools and models   
