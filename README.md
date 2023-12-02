@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   
 📫  Reach me via:
- - Twitter -> luccahuguet
+ - X -> luccahuguet
 
   
 🌆  In the future, I plan to:
