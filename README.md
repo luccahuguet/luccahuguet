@@ -6,13 +6,11 @@ Here are some ideas to get you started:
 -->
   
 💼  I am currently working at:
- - Elfotec, as a data scientist. Creating AI solutions for object detection in python
+ - Elfotec, as a data engineer, treating very large databases with sql, shell scripting and python
   
   
-🌱  I’m currently studying:
- - the YOLO family of models, encompassing most of the state of the art object detection models, and their applications for custom data
- - Python
- - Nushell
+🌱  I’m currently building:
+ - Yazelix! zellij, yazi with nushell and lua scripting add a File Tree to Helix in an IDE-like experience 
   
   
 📫  Reach me via:
@@ -20,8 +18,7 @@ Here are some ideas to get you started:
 
   
 🌆  In the future, I plan to:
- - Build more and more with Rust, the modern language with amazing performance, scalability and safety
- - Delve deeper into AI, building more powerful tools and models   
+ - Dive deeper in go, rust, typescript
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
